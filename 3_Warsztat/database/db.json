@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Obiad",
+      "description": "Zupa",
+      "status": "open"
+    },
+    {
+      "id": 2,
+      "title": "Sprzatanie",
+      "description": "Mycie podlogi",
+      "status": "open"
+    }
+  ]
+}
